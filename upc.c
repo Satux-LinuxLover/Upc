@@ -12,8 +12,6 @@ int main(void){
 			scanf("%1d%1d%1d%1d%1d",&n2,&n3,&n4,&n5,&n6);
 		printf("enter the third digit 5 numbers only : ");
 			scanf("%1d%1d%1d%1d%1d",&n7,&n8,&n9,&n10,&n11);
-		printf("enter the final digit 1 number only : ");
-			scanf("%d",&n12);
 	
         int total ,first_sum ,second_sum ,check_digit;
                 first_sum  = n1 + n3 + n5 + n7 + n9 + n11;
